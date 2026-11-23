@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-23T12:45:54Z",
+  "tracks": [
+    {
+      "id": "airport_lounge",
+      "title": "Airport Lounge",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Chill",
+      "durationMs": 307670,
+      "filePath": "tracks/music/Chill/airport_lounge.m4a",
+      "fileSizeBytes": 6355496,
+      "license": "CC BY 4.0",
+      "sha256": "e4db17ce761c736a0c54ad44820a5287273e5a5fc8b02774f5f5e042039461b0",
+      "tags": [
+        "chill",
+        "lounge",
+        "bossa",
+        "ambient"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "lobby_time",
+      "title": "Lobby Time",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Chill",
+      "durationMs": 193201,
+      "filePath": "tracks/music/Chill/lobby_time.m4a",
+      "fileSizeBytes": 3937929,
+      "license": "CC BY 4.0",
+      "sha256": "8133f037269bb18f463d736fd9cbbdd8dc7d1366ada86659583508c085ca4aeb",
+      "tags": [
+        "chill",
+        "jazz",
+        "relaxed",
+        "cafe"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "impact_moderato",
+      "title": "Impact Moderato",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Cinematic",
+      "durationMs": 75676,
+      "filePath": "tracks/music/Cinematic/impact_moderato.m4a",
+      "fileSizeBytes": 1591166,
+      "license": "CC BY 4.0",
+      "sha256": "7d25d9520ac6879f609c73f39bea10951642e7f399b2f45724b9bfbc38972219",
+      "tags": [
+        "cinematic",
+        "dramatic",
+        "trailer",
+        "orchestral"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "inspired",
+      "title": "Inspired",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Cinematic",
+      "durationMs": 286067,
+      "filePath": "tracks/music/Cinematic/inspired.m4a",
+      "fileSizeBytes": 5858832,
+      "license": "CC BY 4.0",
+      "sha256": "365529dfccdb56a308d2faadc77a4d2a423f3918fba112be310831f4b3c178d3",
+      "tags": [
+        "cinematic",
+        "uplifting",
+        "piano",
+        "story"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "cipher",
+      "title": "Cipher",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Electronic",
+      "durationMs": 231262,
+      "filePath": "tracks/music/Electronic/cipher.m4a",
+      "fileSizeBytes": 4779177,
+      "license": "CC BY 4.0",
+      "sha256": "d42cab11ed4e293075276b38720fb89d105d2982d883569eb04cf9a9058eb189",
+      "tags": [
+        "electronic",
+        "synth",
+        "tech",
+        "pulse"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "electro_cabello",
+      "title": "Electro Cabello",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Electronic",
+      "durationMs": 190824,
+      "filePath": "tracks/music/Electronic/electro_cabello.m4a",
+      "fileSizeBytes": 4039436,
+      "license": "CC BY 4.0",
+      "sha256": "64c1661185b90ae77a9a932b4ecd1a82d07933a25cac7b1f2cf0e1e8611ac8da",
+      "tags": [
+        "electronic",
+        "groove",
+        "funk",
+        "energetic"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "carefree",
+      "title": "Carefree",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Upbeat",
+      "durationMs": 205139,
+      "filePath": "tracks/music/Upbeat/carefree.m4a",
+      "fileSizeBytes": 4201255,
+      "license": "CC BY 4.0",
+      "sha256": "50227628594ccd9a218f3a515fe9d28d7178e806f174070f148f3dd3ca793f5d",
+      "tags": [
+        "upbeat",
+        "acoustic",
+        "happy",
+        "vlog"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "wallpaper",
+      "title": "Wallpaper",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Upbeat",
+      "durationMs": 220055,
+      "filePath": "tracks/music/Upbeat/wallpaper.m4a",
+      "fileSizeBytes": 4605567,
+      "license": "CC BY 4.0",
+      "sha256": "43e8e81d059ffc135546c1b546a8bfa578be1b8951be82f63e00c50a9a697cad",
+      "tags": [
+        "upbeat",
+        "bright",
+        "travel",
+        "montage"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "punch_hit",
+      "title": "Punch Hit",
+      "artist": "Sunisup Studio",
+      "kind": "SFX",
+      "category": "Impacts",
+      "durationMs": 450,
+      "filePath": "tracks/sfx/Impacts/punch_hit.m4a",
+      "fileSizeBytes": 9991,
+      "license": "CC0",
+      "sha256": "fd933803135a2e8b7a30fb7bb4e7a1b649fd2ec510b625a9e9daf6c104933763",
+      "tags": [
+        "impacts",
+        "hit",
+        "cut"
+      ],
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "sub_drop",
+      "title": "Sub Drop",
+      "artist": "Sunisup Studio",
+      "kind": "SFX",
+      "category": "Impacts",
+      "durationMs": 1100,
+      "filePath": "tracks/sfx/Impacts/sub_drop.m4a",
+      "fileSizeBytes": 23519,
+      "license": "CC0",
+      "sha256": "d230bdd3b01ab3684f165842b34377184c2d88343072771a642308f3cc5721ee",
+      "tags": [
+        "impacts",
+        "bass",
+        "drop"
+      ],
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "air_whoosh",
+      "title": "Air Whoosh",
+      "artist": "Sunisup Studio",
+      "kind": "SFX",
+      "category": "Transitions",
+      "durationMs": 650,
+      "filePath": "tracks/sfx/Transitions/air_whoosh.m4a",
+      "fileSizeBytes": 14496,
+      "license": "CC0",
+      "sha256": "abeebb3c1be83923bf165bd2bd3cea9c6c0cd948b24a4b8e5dfea78b0dabbef1",
+      "tags": [
+        "transitions",
+        "whoosh",
+        "swipe"
+      ],
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "cinematic_riser",
+      "title": "Cinematic Riser",
+      "artist": "Sunisup Studio",
+      "kind": "SFX",
+      "category": "Transitions",
+      "durationMs": 1600,
+      "filePath": "tracks/sfx/Transitions/cinematic_riser.m4a",
+      "fileSizeBytes": 33548,
+      "license": "CC0",
+      "sha256": "98415396992cf1ceffdb39504a7cec61126de328ce7dec91513429af2f15cc54",
+      "tags": [
+        "transitions",
+        "riser",
+        "swell"
+      ],
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "camera_shutter",
+      "title": "Camera Shutter",
+      "artist": "Sunisup Studio",
+      "kind": "SFX",
+      "category": "Ui",
+      "durationMs": 220,
+      "filePath": "tracks/sfx/UI/camera_shutter.m4a",
+      "fileSizeBytes": 4116,
+      "license": "CC0",
+      "sha256": "8b4c4f952e1ea4b9267d628ea650e5f80e50fc37f1b8801db1a94344d6a4dc6b",
+      "tags": [
+        "ui",
+        "camera",
+        "click"
+      ],
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "soft_pop",
+      "title": "Soft Pop",
+      "artist": "Sunisup Studio",
+      "kind": "SFX",
+      "category": "Ui",
+      "durationMs": 180,
+      "filePath": "tracks/sfx/UI/soft_pop.m4a",
+      "fileSizeBytes": 3398,
+      "license": "CC0",
+      "sha256": "241ad9a57da2b986a63b6375534446d9883ec9cf0b321a478ab6c97c8e4a74b7",
+      "tags": [
+        "ui",
+        "pop",
+        "caption"
+      ],
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

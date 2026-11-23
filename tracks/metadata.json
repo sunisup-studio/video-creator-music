@@ -1,0 +1,100 @@
+{
+  "carefree": {
+    "title": "Carefree",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["upbeat", "acoustic", "happy", "vlog"]
+  },
+  "wallpaper": {
+    "title": "Wallpaper",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["upbeat", "bright", "travel", "montage"]
+  },
+  "airport_lounge": {
+    "title": "Airport Lounge",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["chill", "lounge", "bossa", "ambient"]
+  },
+  "lobby_time": {
+    "title": "Lobby Time",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["chill", "jazz", "relaxed", "cafe"]
+  },
+  "cipher": {
+    "title": "Cipher",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["electronic", "synth", "tech", "pulse"]
+  },
+  "electro_cabello": {
+    "title": "Electro Cabello",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["electronic", "groove", "funk", "energetic"]
+  },
+  "impact_moderato": {
+    "title": "Impact Moderato",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["cinematic", "dramatic", "trailer", "orchestral"]
+  },
+  "inspired": {
+    "title": "Inspired",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["cinematic", "uplifting", "piano", "story"]
+  },
+  "air_whoosh": {
+    "title": "Air Whoosh",
+    "artist": "Sunisup Studio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tags": ["transitions", "whoosh", "swipe"]
+  },
+  "cinematic_riser": {
+    "title": "Cinematic Riser",
+    "artist": "Sunisup Studio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tags": ["transitions", "riser", "swell"]
+  },
+  "sub_drop": {
+    "title": "Sub Drop",
+    "artist": "Sunisup Studio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tags": ["impacts", "bass", "drop"]
+  },
+  "punch_hit": {
+    "title": "Punch Hit",
+    "artist": "Sunisup Studio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tags": ["impacts", "hit", "cut"]
+  },
+  "camera_shutter": {
+    "title": "Camera Shutter",
+    "artist": "Sunisup Studio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tags": ["ui", "camera", "click"]
+  },
+  "soft_pop": {
+    "title": "Soft Pop",
+    "artist": "Sunisup Studio",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tags": ["ui", "pop", "caption"]
+  }
+}
