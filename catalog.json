@@ -1,7 +1,64 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T12:45:54Z",
+  "updatedAt": "2026-11-23T13:00:51Z",
   "tracks": [
+    {
+      "id": "acoustic_guitar",
+      "title": "Acoustic Guitar",
+      "artist": "Jason Shaw",
+      "kind": "MUSIC",
+      "category": "Acoustic",
+      "durationMs": 174419,
+      "filePath": "tracks/music/Acoustic/acoustic_guitar.m4a",
+      "fileSizeBytes": 3571531,
+      "license": "CC BY 4.0",
+      "sha256": "51b112f2dd3eb6d3f241bcf103051b25beb7a34082a9137155f47987718e153d",
+      "tags": [
+        "acoustic",
+        "folk",
+        "fingerstyle",
+        "organic"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "solace",
+      "title": "Solace",
+      "artist": "Scott Buckley",
+      "kind": "MUSIC",
+      "category": "Acoustic",
+      "durationMs": 356356,
+      "filePath": "tracks/music/Acoustic/solace.m4a",
+      "fileSizeBytes": 7215009,
+      "license": "CC BY 4.0",
+      "sha256": "3c824b6fe36795196eded89ba104fcce1f23ba47b8488c32480f46a0d9002757",
+      "tags": [
+        "acoustic",
+        "piano",
+        "reflective",
+        "gentle"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "travel_light",
+      "title": "Travel Light",
+      "artist": "Jason Shaw",
+      "kind": "MUSIC",
+      "category": "Acoustic",
+      "durationMs": 113084,
+      "filePath": "tracks/music/Acoustic/travel_light.m4a",
+      "fileSizeBytes": 2304225,
+      "license": "CC BY 4.0",
+      "sha256": "e376b747dcf8f43eb38a35ef17b6d11d7a55ecffc79e88fec51efa4760d731c0",
+      "tags": [
+        "acoustic",
+        "travel",
+        "vlog",
+        "warm"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
     {
       "id": "airport_lounge",
       "title": "Airport Lounge",
@@ -22,6 +79,25 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
+      "id": "falling_sky",
+      "title": "Falling Sky",
+      "artist": "Jason Shaw",
+      "kind": "MUSIC",
+      "category": "Chill",
+      "durationMs": 252055,
+      "filePath": "tracks/music/Chill/falling_sky.m4a",
+      "fileSizeBytes": 5253571,
+      "license": "CC BY 4.0",
+      "sha256": "2eba7e3e1a0e823c4316262574998e33b9aec1fe173128429c1cca33ce8e57c0",
+      "tags": [
+        "chill",
+        "ambient",
+        "atmospheric",
+        "downtempo"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
       "id": "lobby_time",
       "title": "Lobby Time",
       "artist": "Kevin MacLeod",
@@ -37,6 +113,82 @@
         "jazz",
         "relaxed",
         "cafe"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "rhastafarian",
+      "title": "Rhastafarian",
+      "artist": "Jason Shaw",
+      "kind": "MUSIC",
+      "category": "Chill",
+      "durationMs": 232411,
+      "filePath": "tracks/music/Chill/rhastafarian.m4a",
+      "fileSizeBytes": 4793886,
+      "license": "CC BY 4.0",
+      "sha256": "a033d1e5ffd9496c2d70cb9c49d5a5fd538c08d92542e3d0886d4e207916273c",
+      "tags": [
+        "chill",
+        "reggae",
+        "laidback",
+        "summer"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "a_kind_of_hope",
+      "title": "A Kind of Hope",
+      "artist": "Scott Buckley",
+      "kind": "MUSIC",
+      "category": "Cinematic",
+      "durationMs": 342600,
+      "filePath": "tracks/music/Cinematic/a_kind_of_hope.m4a",
+      "fileSizeBytes": 6951485,
+      "license": "CC BY 4.0",
+      "sha256": "aacf605e04850b2dd5d8e28f2510ba2af43d39bd6608ad90ee0452219f89f711",
+      "tags": [
+        "cinematic",
+        "emotional",
+        "strings",
+        "hopeful"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "clarion",
+      "title": "Clarion",
+      "artist": "Scott Buckley",
+      "kind": "MUSIC",
+      "category": "Cinematic",
+      "durationMs": 195765,
+      "filePath": "tracks/music/Cinematic/clarion.m4a",
+      "fileSizeBytes": 3966774,
+      "license": "CC BY 4.0",
+      "sha256": "ecd1cccbd2584f18684c137197c761b4ed72f30b3262e8c6b6306d8c9ce713c6",
+      "tags": [
+        "cinematic",
+        "anthemic",
+        "uplifting",
+        "brass"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "discovery",
+      "title": "Discovery",
+      "artist": "Scott Buckley",
+      "kind": "MUSIC",
+      "category": "Cinematic",
+      "durationMs": 235302,
+      "filePath": "tracks/music/Cinematic/discovery.m4a",
+      "fileSizeBytes": 4762113,
+      "license": "CC BY 4.0",
+      "sha256": "ed99d33d9edbcbfa4aa72a48e3a86a25a9bb6df9dbd8195e2b57aa7ca346d245",
+      "tags": [
+        "cinematic",
+        "epic",
+        "hybrid",
+        "synth"
       ],
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     },
@@ -98,6 +250,25 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
+      "id": "edm_detection_mode",
+      "title": "EDM Detection Mode",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Electronic",
+      "durationMs": 365688,
+      "filePath": "tracks/music/Electronic/edm_detection_mode.m4a",
+      "fileSizeBytes": 7814984,
+      "license": "CC BY 4.0",
+      "sha256": "5ca552f908a437e02c3d86d90cf80622b5b5d2633786513c096d42b5239298e6",
+      "tags": [
+        "electronic",
+        "edm",
+        "club",
+        "beat"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
       "id": "electro_cabello",
       "title": "Electro Cabello",
       "artist": "Kevin MacLeod",
@@ -117,6 +288,63 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
+      "id": "glow",
+      "title": "Glow",
+      "artist": "Scott Buckley",
+      "kind": "MUSIC",
+      "category": "Electronic",
+      "durationMs": 191064,
+      "filePath": "tracks/music/Electronic/glow.m4a",
+      "fileSizeBytes": 3868758,
+      "license": "CC BY 4.0",
+      "sha256": "b053d6f24bd9aaff1a41b98863a5117b2768744d1d2d6870b449be6a9bfb4a31",
+      "tags": [
+        "electronic",
+        "chillwave",
+        "ambient",
+        "warm"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "miami_viceroy",
+      "title": "Miami Viceroy",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Electronic",
+      "durationMs": 267650,
+      "filePath": "tracks/music/Electronic/miami_viceroy.m4a",
+      "fileSizeBytes": 5613299,
+      "license": "CC BY 4.0",
+      "sha256": "359a6775b8a3de96ab901c350730978bee715002b25862e66093446e4093a29d",
+      "tags": [
+        "electronic",
+        "synthpop",
+        "80s",
+        "night"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "neon",
+      "title": "Neon",
+      "artist": "Scott Buckley",
+      "kind": "MUSIC",
+      "category": "Electronic",
+      "durationMs": 259081,
+      "filePath": "tracks/music/Electronic/neon.m4a",
+      "fileSizeBytes": 5267580,
+      "license": "CC BY 4.0",
+      "sha256": "cba2e2994f003eeacc6d3b2ef889b0031850114e49fe5871edf3c732eee53aac",
+      "tags": [
+        "electronic",
+        "synthwave",
+        "retro",
+        "driving"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
       "id": "carefree",
       "title": "Carefree",
       "artist": "Kevin MacLeod",
@@ -132,6 +360,44 @@
         "acoustic",
         "happy",
         "vlog"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "funkorama",
+      "title": "Funkorama",
+      "artist": "Kevin MacLeod",
+      "kind": "MUSIC",
+      "category": "Upbeat",
+      "durationMs": 201456,
+      "filePath": "tracks/music/Upbeat/funkorama.m4a",
+      "fileSizeBytes": 4316309,
+      "license": "CC BY 4.0",
+      "sha256": "74776245e961c09807037037c4b73a4941f8682a0e2828dc8bde3a0b90267263",
+      "tags": [
+        "upbeat",
+        "funk",
+        "groove",
+        "brass"
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "green_daze",
+      "title": "Green Daze",
+      "artist": "Jason Shaw",
+      "kind": "MUSIC",
+      "category": "Upbeat",
+      "durationMs": 89574,
+      "filePath": "tracks/music/Upbeat/green_daze.m4a",
+      "fileSizeBytes": 1836412,
+      "license": "CC BY 4.0",
+      "sha256": "10be378d250db3060eeb64618154390176333c029cbbe491913cf782cefee513",
+      "tags": [
+        "upbeat",
+        "indie",
+        "roadtrip",
+        "guitar"
       ],
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     },

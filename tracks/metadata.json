@@ -13,6 +13,20 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "tags": ["upbeat", "bright", "travel", "montage"]
   },
+  "funkorama": {
+    "title": "Funkorama",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["upbeat", "funk", "groove", "brass"]
+  },
+  "green_daze": {
+    "title": "Green Daze",
+    "artist": "Jason Shaw",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["upbeat", "indie", "roadtrip", "guitar"]
+  },
   "airport_lounge": {
     "title": "Airport Lounge",
     "artist": "Kevin MacLeod",
@@ -26,6 +40,41 @@
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "tags": ["chill", "jazz", "relaxed", "cafe"]
+  },
+  "falling_sky": {
+    "title": "Falling Sky",
+    "artist": "Jason Shaw",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["chill", "ambient", "atmospheric", "downtempo"]
+  },
+  "rhastafarian": {
+    "title": "Rhastafarian",
+    "artist": "Jason Shaw",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["chill", "reggae", "laidback", "summer"]
+  },
+  "travel_light": {
+    "title": "Travel Light",
+    "artist": "Jason Shaw",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["acoustic", "travel", "vlog", "warm"]
+  },
+  "acoustic_guitar": {
+    "title": "Acoustic Guitar",
+    "artist": "Jason Shaw",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["acoustic", "folk", "fingerstyle", "organic"]
+  },
+  "solace": {
+    "title": "Solace",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["acoustic", "piano", "reflective", "gentle"]
   },
   "cipher": {
     "title": "Cipher",
@@ -41,6 +90,34 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "tags": ["electronic", "groove", "funk", "energetic"]
   },
+  "neon": {
+    "title": "Neon",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["electronic", "synthwave", "retro", "driving"]
+  },
+  "glow": {
+    "title": "Glow",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["electronic", "chillwave", "ambient", "warm"]
+  },
+  "edm_detection_mode": {
+    "title": "EDM Detection Mode",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["electronic", "edm", "club", "beat"]
+  },
+  "miami_viceroy": {
+    "title": "Miami Viceroy",
+    "artist": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["electronic", "synthpop", "80s", "night"]
+  },
   "impact_moderato": {
     "title": "Impact Moderato",
     "artist": "Kevin MacLeod",
@@ -54,6 +131,27 @@
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
     "tags": ["cinematic", "uplifting", "piano", "story"]
+  },
+  "discovery": {
+    "title": "Discovery",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["cinematic", "epic", "hybrid", "synth"]
+  },
+  "a_kind_of_hope": {
+    "title": "A Kind of Hope",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["cinematic", "emotional", "strings", "hopeful"]
+  },
+  "clarion": {
+    "title": "Clarion",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": ["cinematic", "anthemic", "uplifting", "brass"]
   },
   "air_whoosh": {
     "title": "Air Whoosh",
