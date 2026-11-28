@@ -45,3 +45,11 @@ Synthesized by Sunisup Studio and dedicated to the public domain under [CC0 1.0 
 | `punch_hit` | Punch Hit | Impacts | Sunisup Studio | CC0 |
 | `camera_shutter` | Camera Shutter | UI | Sunisup Studio | CC0 |
 | `soft_pop` | Soft Pop | UI | Sunisup Studio | CC0 |
+
+## Speech-to-Text Models & Dictionaries
+
+- **Silero VAD v5** (`snakers4/silero-vad`) — MIT License
+- **NVIDIA Parakeet TDT 0.6B v2 & v3** (`nvidia/parakeet-tdt-0.6b-v3`, ONNX export by `istupakov`) — CC-BY-4.0
+- **FunAudioLLM SenseVoiceSmall** (`iic/SenseVoiceSmall`, ONNX export by `k2-fsa/sherpa-onnx`) — FunASR Model Open Source License & Apache-2.0
+- **OpenCC `s2twp` Dictionaries** (`BYVoid/OpenCC` `ver.1.1.9`) — Apache-2.0
+
